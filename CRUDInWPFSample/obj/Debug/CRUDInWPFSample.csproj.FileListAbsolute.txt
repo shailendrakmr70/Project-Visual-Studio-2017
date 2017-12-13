@@ -1,0 +1,15 @@
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\bin\Debug\CRUDInWPFSample.exe.config
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\bin\Debug\CRUDInWPFSample.exe
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\bin\Debug\CRUDInWPFSample.pdb
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\View\MainWindow.g.cs
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\App.g.cs
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample_MarkupCompile.cache
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample_MarkupCompile.lref
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\View\MainWindow.baml
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.g.resources
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.Properties.Resources.resources
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.csproj.GenerateResource.Cache
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.exe
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\CRUDInWPFSample.pdb
+C:\Users\Gamer\source\repos\CRUDInWPFSample\CRUDInWPFSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
